@@ -11,8 +11,8 @@ My GitHub account will include projects that mainly focus on my journey of learn
 In my projects you will notice that I use Java to make cybersecurity tools, as it is my way of learning how the tool functions and important 
 Here's some projects I have completed/working on:
 
-1. **Project Name**: [Brief Description]
-   - [Link to Project Repository or Demo]
+1. **Java Networking - PS**: a website that includes information about computer networking, Java networking, and a port scanner that I developed
+   - https://laharimulakala039.wixsite.com/java-networking---ps
 
 Feel free to explore this project and suggest any changes you think I can make to improve. Your feedback is highly appreciated!
 
@@ -23,7 +23,7 @@ These are _some_ of the most recent labs I have created in my class (will be add
 
 ## Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile URL]
+- **LinkedIn**: https://www.linkedin.com/in/lahari-mulakala/
 - **Website**: https://laharimulakala039.wixsite.com/lahari-mulakala---cy
 
 Feel free to connect with me on LinkedIn or check out my website or blog for more about what I'm up to.
