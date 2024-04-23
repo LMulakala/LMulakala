@@ -9,7 +9,7 @@ Through this GitHub profile, I aim to document my progress, sharing projects tha
 
 My GitHub account will include projects that mainly focus on my journey of learning cybersecurity through computer science. 
 In my projects you will notice that I use Java to make cybersecurity tools, as it is my way of learning how the tool functions and important 
-Here's some projects I have completed/working on:
+In my GitHub profile I have project I completed and am working on (more coming soon):
 
 1. **Java Networking - PS**: a website that includes information about computer networking, Java networking, and a port scanner that I developed
    - https://laharimulakala039.wixsite.com/java-networking---ps
@@ -19,13 +19,13 @@ Feel free to explore this project and suggest any changes you think I can make t
 ## Computer Science Labs
 
 In my years of being in High School I have created a multitude of "labs" in my computer science class.
-These are _some_ of the most recent labs I have created in my class (will be added soon):
+In my GitHub I included _some_ of the most recent labs I have created in my class (will be added soon).
 
 ## Connect with Me
 
 - **LinkedIn**: https://www.linkedin.com/in/lahari-mulakala/
 - **Website**: https://laharimulakala039.wixsite.com/lahari-mulakala---cy
 
-Feel free to connect with me on LinkedIn or check out my website or blog for more about what I'm up to.
+Feel free to connect with me on LinkedIn or check out my website for more about what I'm up to.
 
 Thank you for visiting my GitHub profile!
