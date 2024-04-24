@@ -9,7 +9,7 @@ Through this GitHub profile, I aim to document my progress, sharing projects tha
 
 My GitHub account will include projects that mainly focus on my journey of learning cybersecurity through computer science. 
 In my projects you will notice that I use Java to make cybersecurity tools, as it is my way of learning how the tool functions and important 
-In my GitHub profile I have project I completed and am working on (more coming soon):
+In my GitHub profile I have completed and in progress projects (more coming soon):
 
 1. **Java Networking - PS**: a website that includes information about computer networking, Java networking, and a port scanner that I developed
    - https://laharimulakala039.wixsite.com/java-networking---ps
